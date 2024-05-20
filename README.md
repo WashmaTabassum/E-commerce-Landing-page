@@ -23,4 +23,3 @@ _Brand Showcase:_ Highlighting popular and trusted brands available in the store
 ## Technologies used
 _HTML5_ For semantic and structured markup of the webpage.  
 
-_CSS3:_ For styling, layout, and responsive design, ensuring a consistent look and feel across devices.
